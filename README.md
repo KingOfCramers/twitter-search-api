@@ -1,4 +1,4 @@
-# boilerplate_jwt_node_api
+# twitter database dynamic search
 Boilerplate MongoDB Tweet data storage system API
 
 Run NPM install to install relevant modules. Requires a config.json file to run, stored in the config folder.
